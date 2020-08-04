@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Gustavo from Brazil. I'm currently working as a Data Analyst at [Viajar Faz Bem](https://www.sbtur.com).
+I'm doing a degree in System Analysis and Development and also learning Back-end and Front-end since 2018. 
+
+I speak Portuguese, English and trying to learn German.
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocbr)](https://www.linkedin.com/in/gustavocbr)
+
