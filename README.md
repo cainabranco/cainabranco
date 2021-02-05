@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Gustavo from Brazil. I'm currently working as a Data Analyst at [Viajar Faz Bem](https://www.sbtur.com).
-I'm doing a degree in System Analysis and Development and also learning Back-end and Front-end since 2018. 
+My name is Gustavo from Brazil. I'm doing a degree in System Analysis and Development and also learning Back-end and Front-end since 2018. 
 
 I speak Portuguese, English and trying to learn German.
 
